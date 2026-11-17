@@ -1,0 +1,39 @@
+# 2.1 Cities as drivers and laboratories
+
+```{figure} images/module2.1_gap.png
+:width: 600px
+:align: center
+:label: fig_2.1
+
+Gap between the imaginary of the "City as a Laboratory" and current situation. Visual by Ariele Empirio.
+```
+By following the metaphor of the <span style="color:#0089A6; font-weight:700;">“City as a Laboratory”</span>, this Workbook invites you to see cities not simply as a place that grows <span style="color:#0089A6; font-weight:700;">“on its own”</span>. Instead, this module encourages you to imagine cities as shared places and projects where everyone not just a few can take part, make their own choices, and influence what happens by sharing their ideas, hopes and skills ([@saunders2010] ;  [Ward 2019](https://www.jstor.org/stable/j.ctvw04c4q?turn_away=true)).
+
+In the imaginary view of [](#fig_2.1), the term <span style="color:#0089A6; font-weight:700;">"city"</span> is not about size or location, but about places where people try to live their own lives together with others in fair and supportive conditions while learning from each other [@philippjende2025]. In such imaginary, being part of a place means more than just living there; it means being part of the community. Research before industrialisation showed that to <span style="color:#0089A6; font-weight:700;">“dwell”</span> in English (“habiter” in French) meant more than simply <span style="color:#0089A6; font-weight:700;">“to live”</span> or <span style="color:#0089A6; font-weight:700;">“to reside”</span> in a place. Instead, it implies an active social life within a community or town and an ongoing relationship with one’s environment. It refers to how people shape places and are shaped by them [@henri1991production]. However, consumer lifestyles and entertainment industries have often turned cities into spaces focused on commercialised public areas and high levels of consumption [@wilson2023reframing]. While this development supports economic growth, it also harms the environment through excessive resource use and high levels of emissions and waste such as food, energy, and water and affects well-being by increasing stress, overwork, inactivity, individualism, and social isolation  [@kronenberg2024].
+
+The gap between [](#fig_2.1)imaginary and the current situation in the place where you live, study, or work reveals several types or clusters of challenges. @cities_lab_table outlines these clusters as defined on the  [2026 City Bootcamp](https://www.tu.berlin/en/vp-sl/transdisciplinary-learning/calts-the-city-as-a-laboratory/summer-school-milan-2026) . Think about a real-life example, if possible, an interconnected social, economic, and environmental challenge. Feel free to choose a challenge that you want to get familiar with or a challenge that you have worked on as part of a student, research, professional, or community project to revisit it from the Workbook's perspective. The goal is to go through the chosen example through the guidance questions of one of the clusters below.
+
+::::{grid} 2
+:gutter: 3
+
+:::{card} Shared spaces and collective practices
+**Who creates and governs these in the future?**
+
+Shared spaces are increasingly shaped by tensions between shared resources and privatisation.
+
+**Questions to explore**
+- How can new shared spaces be created?
+- What forms of governance can involve citizens?
+:::
+
+:::{card} Justice and care
+**Who has access to wellbeing?**
+
+Access to health, green space, mobility and safety varies.
+
+**Questions to explore**
+- How can territorial inequalities be reduced?
+- How can overlooked needs become visible?
+:::
+
+::::

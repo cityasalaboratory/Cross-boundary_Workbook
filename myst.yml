@@ -1,0 +1,51 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 93cf0b70-e091-497b-ae03-321fa1c84403
+  title: City As A Laboratory — JB2trial
+  description: Trial getting started with Jupyter Book 2
+  # authors:
+  #   - name: Juliette Cortes Arevalo
+  #     affiliation: TU Delft
+  #     url: https://www.julliete.com
+  static_files:
+   - images
+  bibliography:
+   - references.bib
+  toc:
+   - file: index.md   
+   - file: module1.0_outline.md
+     children:
+        - file: module1.1_content.md   
+   - file: module2.0_outline.md   
+     children:
+        - file: module2.1_content.md 
+   - file: glossary.md
+  exports:
+    - format: typst
+      #template: lapreprint-typst
+      #output: exports/city-laboratory-workbook_lapreprint.pdf
+      template: plain_typst_book
+      output: exports/city-laboratory-book_plain_typst.pdf
+      articles:
+        #- module1_landing_page.md
+        #- module1_outline.md
+        #- module1_summary.md
+        #- module1_learning-objectives.md
+        #- module1.1_content.md
+
+        
+
+
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  title: City As A Laboratory
+  options:
+    logo_text: "City As A Laboratory"
+    style: styles/custom.css
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
