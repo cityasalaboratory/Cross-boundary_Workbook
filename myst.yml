@@ -49,9 +49,11 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
   template: book-theme
-  title: City As A Laboratory
+  title: City As A Laboratory  
   options:
     logo_text: "City As A Laboratory"
     style: styles/custom.css
+    javascript:
+      - _static/lightbox.js
   #   favicon: favicon.ico
   #   logo: site_logo.png

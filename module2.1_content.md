@@ -14,28 +14,29 @@ Research on pre-industrial understandings of dwelling suggests that the French t
 
 However, consumer lifestyles and entertainment industries have often transformed cities into spaces centred on commercialised public areas and high levels of consumption [@wilson2023reframing]. While this development has supported economic growth, it also contributes to excessive resource use, emissions, and waste, while affecting well-being through stress, overwork, inactivity, individualism, and social isolation [@kronenberg2024].
 
-## Task 2.1 Choose a challenge to explore
+## Task 2.1 A challenge worth exploring: Your story behind it.
 <div class="author-block">
-By Francesco Vergani & Valentina Faccoetti
+By Francesco Vergani, Valentina Faccoetti & Juliette-Cortes-Arevalo
 </div>
 
 <div class="task-framing">
-  Choose a real-life example of a challenge among the cluster challenges listed below to uncover how your personal experience shapes your connection with it.
-</div>
+  Choose a real-life challenge among the clusters listed below to uncover how your personal experience shapes your connection with it.
 </div>
 
 <div class="time-indication">
-  15 minutes
+  <ul>
+  <li>15 minutes own story</li>
+  <li>15 minutes to interview other actors</li>
+  </ul>
 </div>
 
 <div class="learning-objective">
-Acknowledge your own perspective in relation to the challenge and write a short story about your connection to it.
+Use the questions below to explore your connection to the challenge and whom would you like to support in addressing it. If you wish, use the same questions to ask people who are interested in or affected by the challenge about their experience to enrich your perspective with their insights.
 </div>
 
 <div class="requirements">
 <ul>
     <li>A space to take notes and reflect</li>
-    <li>Formulate the challenge from the level that you have experinced it.</li>
 </ul>
 </div>
 
@@ -44,25 +45,13 @@ Reflective storytelling, Challenge-based inquiry, Reconstruct & Intervene.
 </div>
 
 <div class="limitations">
-This exercise builds on your current understanding of the challenge. Some perspectives, impacts, or stakeholders may not yet be visible and can be explored further in later activities.
+This exercise builds on your current understanding of the challenge. Other perspectives may not yet be visible and can be explored further by using the same questions to interview other actors.
 </div>
 
 <div class="step-by-step">
-<ol>
-<li>Use the guiding questions of one challenge cluster to explore it in relation with your work or interests</li>
-<li>Start with your personal connection. Describe a moment where you noticed the challenge. Be specific (e.g. “on my daily
-commute…” or “in my neighbourhood…”).</li>
-<li>Describe why it matters? Explain why this problem is important to you and what consequences does it have for whom.</li>
-<li>What does it bother you about this situation? Share what feels wrong, unfair, or unsustainable.</li>
-<li>What inspires you to act? Consider also what triggered your interest, positively.</li>
-<li>Who is mostly affected by this situation? Mention people, groups, or even the environment affected by this problem situation.</li>
-<li>What do you wish it could be different? Share your feelings and observations about the change you wish to see and why is not happening yet.</li>
-<li>What photos or visual helps to illustrate the situation? Acknowledge the source and copyrights as necessary.</li>
-<li>To conclude, formulate a problem statement following the below guidance:
-"How can [choose an actor who has key resources or responsibilities to take action on the challenge right now and you wish to support]
-address [define the chosen actor’s main objective]
-without [define the main two unintended consequences this actor wants to avoid]</li>
-</ol>
+<ul><li>Use the guiding questions of one challenge cluster to explore it in relation with your work or interests</li>
+
+</div>
 
 ::::{grid} 2
 :gutter: 3
@@ -124,4 +113,36 @@ Urban transformation is often driven by a limited number of government and econo
 :::
 ::::
 
-## Task 2.1 Choose a challenge to explore
+<div class="step-by-step">
+<ul>
+<li>Start with your personal connection. Describe a moment where you noticed the challenge. Be specific (e.g. “on my daily
+commute…” or “in my neighbourhood…”).</li>
+<li>Describe why it matters? Explain why this problem is important to you and what consequences does it have for whom.</li>
+<li>What does it bother you about this situation? Share what feels wrong, unfair, or unsustainable.</li>
+<li>What inspires you to act? Consider also what triggered your interest, positively.</li>
+<li>Who is mostly affected by this situation? Mention people, groups, or even the environment affected by this problem situation.</li>
+<li>What do you wish it could be different? Share your feelings and observations about the change you wish to see and why is not happening yet.</li>
+<li>What photos or visual helps to illustrate the situation? Acknowledge the source and copyrights as necessary.</li>
+<li>To conclude, formulate a problem statement following the below guidance:
+"How can [choose an actor who has key resources or responsibilities to take action on the challenge right now and you wish to support]
+address [define the chosen actor’s main objective]
+without [define the main two unintended consequences this actor wants to avoid]</li>
+</ul>
+</div>
+
+
+## Example
+<a href="images/task2.1/task2.1_example.png" target="_blank">
+  <img
+    src="images/task2.1/task2.1_example.png"
+    alt="Task 2.1 example"
+    width="600">
+</a>
+
+## Download template
+<a href="images/task2.1/workbook_task2.1.pdf" target="_blank">
+  <img
+    src="images/task2.1/task2.1_template.png"
+    alt="Preview of workbook template"
+    width="600">
+</a>
