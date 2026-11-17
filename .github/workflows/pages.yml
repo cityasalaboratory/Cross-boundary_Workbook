@@ -32,6 +32,11 @@ jobs:
       - name: Build site
         run: myst build
 
+      - name: Debug build output
+        run: |
+          echo "=== BUILD FOLDERS ==="
+          find _build -type f | sort  
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
