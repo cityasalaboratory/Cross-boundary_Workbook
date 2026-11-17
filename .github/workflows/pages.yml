@@ -22,25 +22,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-node@v4
         with:
-          python-version: "3.11"
+          node-version: 22
 
       - name: Install MyST
-        run: pip install mystmd
+        run: npm install -g mystmd
+
+      - name: Check MyST version
+        run: myst --version
 
       - name: Build site
         run: myst build
 
       - name: Debug build output
         run: |
-          echo "=== BUILD FOLDERS ==="
-          find _build -type f | sort  
+          echo "=== BUILD FILES ==="
+          find _build -type f | sort
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path:  _build/site
+          path: _build/site
 
   deploy:
     needs: build
@@ -51,5 +54,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - id: deployment
+      - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
