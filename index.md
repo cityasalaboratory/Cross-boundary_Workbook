@@ -11,35 +11,57 @@ A joint effort between TU Berlin, Politecnico di Milano and TU Delft, co-funded 
 :::{card}
 :link: ./module1.0_outline.md
 
-![Module 1 illustration](images/tile2.png)
+![Module 1 illustration](images/module1_tile.png)
 
-**1. Connect with and define the challenge**
+**1. How can you contribute and use this Workbook?**
 :::
 
 :::{card}
 :link: ./module2.0_outline.md
 
-![Module 2 illustration](images/tile1.png)
+![Module 2 illustration](images/module2_landing.png)
 
-**2. How can you contribute and use this Workbook?**
-:::
-:::{card}
-
-![Module 3 illustration](images/tile3.png)
-
-**3. 2026 City Bootcamp Milan further exploration**
+**2. Connect with and define the challenge**
 :::
 
 :::{card}
+:link: ./module3.0_outline.md
+![Module 3 illustration](images/module3_tile.png)
 
-![Module 4 illustration](images/tile4.png)
+**3. Design for values learning pathways**
+:::
 
-**4. Glossary of terms**
+:::{card}
+:link: ./module4.0_outline.md
+![Module 4 illustration](images/module4_tile.png)
+
+**4. Design for a more-than-human world**
+:::
+
+:::{card}
+:link: ./module5.0_outline.md
+![Module 5 illustration](images/module5_tile.png)
+
+**5. Learning through cases and methods**
+:::
+
+:::{card}
+:link: ./module6.0_outline.md
+![Module 6 illustration](images/module6_tile.png)
+
+**6 Get inspired by each other experiences**
 :::
 
 :::{card}
 
-![Module 5 illustration](images/tile5.png)
+![Glossary](images/glossary_tile.png)
+
+**Glossary of terms**
+:::
+
+:::{card}
+
+![Portfolio](images/tile5.png)
 
 **5. Learning Journey Portfolio**
 
