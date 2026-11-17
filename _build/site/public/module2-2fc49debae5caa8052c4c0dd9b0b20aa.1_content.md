@@ -1,0 +1,103 @@
+# 2.1 Cities as drivers and laboratories
+```{figure} images/module2.1_gap.png
+:width: 600px
+:align: center
+:label: fig_2.1
+
+Gap between the imaginary of the "City as a Laboratory" and current situation. Visual by Ariele Empirio.
+```
+By following the metaphor of the **"City as a Laboratory"**, this Workbook invites you to see cities not simply as places that grow **"on their own."** Instead, this module encourages you to imagine cities as shared places and projects where everyone, not just a few, can take part, make their own choices, and influence what happens by sharing their ideas, hopes, and skills [@saunders2010; @philippjende2025].
+
+In the imagined view shown in {numref}`fig_2.1`, the term **"city"** is not about size or location, but about places where people try to live their own lives together with others in fair and supportive conditions while learning from one another [@philippjende2025]. In this imaginary, being part of a place means more than simply living there. It means being part of a community.
+
+Research on pre-industrial understandings of dwelling suggests that the French term *habiter* and the English notion of *dwelling* imply more than simply residing in a place. They point to an active social life within a community and an ongoing relationship with one's environment. People shape places, and places shape people [@henri1991production].
+
+However, consumer lifestyles and entertainment industries have often transformed cities into spaces centred on commercialised public areas and high levels of consumption [@wilson2023reframing]. While this development has supported economic growth, it also contributes to excessive resource use, emissions, and waste, while affecting well-being through stress, overwork, inactivity, individualism, and social isolation [@kronenberg2024].
+
+## Task 2.1 Choose a challenge to explore
+<div class="author-block">
+By Francesco Vergani & Valentina Faccoetti
+</div>
+
+<div class="task-framing">
+  Choose a real-life example of a challenge, preferably one that combines social, economic, and environmental dimensions that you would like to connect with and further define through this module guidance.
+</div>
+
+<div class="time-indication">
+  15 minutes
+</div>
+
+<div class="learning-objective">
+Acknowledge your own perspective in relation to the challenge and write a short story about your connection to it.
+</div>
+
+<div class="requirements">
+<ul>
+    <li>A space to take notes and reflect</li>
+    <li>Formulate the challenge from the level that you have experinced it.</li>
+</ul>
+</div>
+
+Use the guiding questions of one challenge cluster to analyse the example from the Workbook's perspective.
+
+::::{grid} 2
+:gutter: 3
+
+:::{card} Shared spaces and collective practices
+**Who creates and governs these in the future?**
+
+Shared spaces are increasingly shaped by tensions between shared resources and privatisation.
+
+**Questions to explore**
+- How can new shared spaces be created?
+- What forms of governance can involve citizens?
+:::
+
+:::{card} Justice and care
+**Who has access to wellbeing?**
+
+Access to health, green space, mobility and safety varies.
+
+**Questions to explore**
+- How can territorial inequalities be reduced?
+- How can overlooked needs become visible?
+:::
+
+:::{card} Vulnerability and climate adaptation:
+**How can we live with a changing climate?**
+
+Places, in for example, cities will face increasing exposure to extreme weather events, resource scarcity and biodiversity loss. Adaptation is not only a technical challenge but also requires new ways of inhabiting and relating to an environment.
+
+**Questions to explore**
+- How can one respond to extreme weather and new forms of vulnerability or exposure to harm or risk? 
+- How can disrupted ecological relationships be restored?
+- How can natural and built systems be better integrated?
+- How can territories address the challenge without increasing inequalities? 
+:::
+
+:::{card} Memory and conflict:
+**Whose stories shape  transformation?**
+
+Regeneration is the process of improving and transforming parts of a place to make them stable locations to live and work. However, it often creates tensions between memories, identities, interests, and different visions of the future, where some stories are highlighted while others are overlooked or erased.
+
+**Questions to explore**
+- How can marginalised histories be recognised and valued?  
+- How can conflicts between long-term residents and newcomers be addressed? 
+- How can development avoid pushing aside people’s culture or stories? 
+- How can conflict support transformation?
+:::
+
+:::{card} The right to transform:
+**Who has the power to shape the future of a place?**
+
+Urban transformation is often driven by a limited number of government and economic actors. Yet emerging forms of participation, activism and civic engagement are reshaping who has the power to envision, influence, and shape the future of cities.
+
+**Questions to explore**
+- Who is excluded from decisions about the future of a place?  
+- How can participation be broadened and made more meaningful? 
+- Which non-human actors should have a voice in decision-making? 
+- What new forms of democracy could emerge?
+:::
+::::
+
+## Task 2.1 Choose a challenge to explore

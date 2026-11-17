@@ -150,22 +150,87 @@ h3 {
    TASK FRAMING
    ================================================== */
 
-.task-framing {
-    background: var(--color-surface);
+/* =====================================================
+   BASE CALLOUT STYLE
+   ===================================================== */
 
+.introduction,
+.learning-objective,
+.requirements,
+.methods-approaches,
+.limitations,
+.step-by-step,
+.time-indication {
+
+    background: var(--color-surface);
     border-left: 4px solid var(--color-primary);
 
     border-radius: 0 6px 6px 0;
 
     padding: var(--space-sm) 1.25rem;
-
     margin: var(--space-md) 0;
 
-    font-size: 0.95rem;
     line-height: 1.7;
 }
 
 
+/* =====================================================
+   SHARED HEADER STYLE
+   ===================================================== */
+
+.introduction::before,
+.learning-objective::before,
+.requirements::before,
+.methods-approaches::before,
+.limitations::before,
+.step-by-step::before,
+.time-indication::before {
+
+    display: block;
+
+    font-size: 0.8rem;
+    font-weight: 700;
+
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+
+    color: var(--color-primary);
+
+    margin-bottom: 0.5rem;
+}
+
+
+/* =====================================================
+   LABELS
+   ===================================================== */
+
+.introduction::before {
+    content: "Introduction";
+}
+
+.learning-objective::before {
+    content: "Learning Objectives";
+}
+
+.requirements::before {
+    content: "Requirements";
+}
+
+.methods-approaches::before {
+    content: "Methods & Approaches";
+}
+
+.limitations::before {
+    content: "Limitations";
+}
+
+.step-by-step::before {
+    content: "Step-by-Step";
+}
+
+.time-indication::before {
+    content: "Time";
+}
 /* ==================================================
    LAYOUT
    ================================================== */

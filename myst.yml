@@ -23,7 +23,9 @@ project:
    - file: module3.0_outline.md
    - file: module4.0_outline.md
    - file: module5.0_outline.md
-   - file: module6.0_outline.md        
+   - file: module6.0_outline.md
+     children:
+        - file: module6.1_Berlin.md        
    - file: glossary.md
   exports:
     - format: typst

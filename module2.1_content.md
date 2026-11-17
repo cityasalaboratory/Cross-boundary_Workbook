@@ -1,5 +1,4 @@
 # 2.1 Cities as drivers and laboratories
-
 ```{figure} images/module2.1_gap.png
 :width: 600px
 :align: center
@@ -16,10 +15,54 @@ Research on pre-industrial understandings of dwelling suggests that the French t
 However, consumer lifestyles and entertainment industries have often transformed cities into spaces centred on commercialised public areas and high levels of consumption [@wilson2023reframing]. While this development has supported economic growth, it also contributes to excessive resource use, emissions, and waste, while affecting well-being through stress, overwork, inactivity, individualism, and social isolation [@kronenberg2024].
 
 ## Task 2.1 Choose a challenge to explore
+<div class="author-block">
+By Francesco Vergani & Valentina Faccoetti
+</div>
 
-The gap between the imagined future and the current situation in the place where you live, study, or work reveals different types of challenges (see {numref}`fig_2.1`). The challenge clusters below, inspired by the [2026 City Bootcamp](https://www.tu.berlin/en/vp-sl/transdisciplinary-learning/calts-the-city-as-a-laboratory/summer-school-milan-2026), offer different lenses through which to explore these challenges.
+<div class="task-framing">
+  Choose a real-life example of a challenge among the cluster challenges listed below to uncover how your personal experience shapes your connection with it.
+</div>
+</div>
 
-Choose a real-life example, preferably one that combines social, economic, and environmental dimensions. This could be a challenge you would like to learn more about or one you have encountered as part of a student, research, professional, or community project. Use the guiding questions of one challenge cluster to analyse the example from the Workbook's perspective.
+<div class="time-indication">
+  15 minutes
+</div>
+
+<div class="learning-objective">
+Acknowledge your own perspective in relation to the challenge and write a short story about your connection to it.
+</div>
+
+<div class="requirements">
+<ul>
+    <li>A space to take notes and reflect</li>
+    <li>Formulate the challenge from the level that you have experinced it.</li>
+</ul>
+</div>
+
+<div class="methods-approaches">
+Reflective storytelling, Challenge-based inquiry, Reconstruct & Intervene.
+</div>
+
+<div class="limitations">
+This exercise builds on your current understanding of the challenge. Some perspectives, impacts, or stakeholders may not yet be visible and can be explored further in later activities.
+</div>
+
+<div class="step-by-step">
+<ol>
+<li>Use the guiding questions of one challenge cluster to explore it in relation with your work or interests</li>
+<li>Start with your personal connection. Describe a moment where you noticed the challenge. Be specific (e.g. “on my daily
+commute…” or “in my neighbourhood…”).</li>
+<li>Describe why it matters? Explain why this problem is important to you and what consequences does it have for whom.</li>
+<li>What does it bother you about this situation? Share what feels wrong, unfair, or unsustainable.</li>
+<li>What inspires you to act? Consider also what triggered your interest, positively.</li>
+<li>Who is mostly affected by this situation? Mention people, groups, or even the environment affected by this problem situation.</li>
+<li>What do you wish it could be different? Share your feelings and observations about the change you wish to see and why is not happening yet.</li>
+<li>What photos or visual helps to illustrate the situation? Acknowledge the source and copyrights as necessary.</li>
+<li>To conclude, formulate a problem statement following the below guidance:
+"How can [choose an actor who has key resources or responsibilities to take action on the challenge right now and you wish to support]
+address [define the chosen actor’s main objective]
+without [define the main two unintended consequences this actor wants to avoid]</li>
+</ol>
 
 ::::{grid} 2
 :gutter: 3

@@ -61,7 +61,7 @@ A joint effort between TU Berlin, Politecnico di Milano and TU Delft, co-funded 
 
 :::{card}
 
-![Portfolio](images/tile5.png)
+![Portfolio](images/module1.1_citizen.png)
 
 **5. Learning Journey Portfolio**
 
