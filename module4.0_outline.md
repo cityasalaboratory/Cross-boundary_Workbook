@@ -1,4 +1,4 @@
-# 4. Design for a more-than-human world 
+# 4. Design for a more-than-human world
 <div class="chapter-subtitle">
 Creating places where people and other living beings can thrive together.
 </div>

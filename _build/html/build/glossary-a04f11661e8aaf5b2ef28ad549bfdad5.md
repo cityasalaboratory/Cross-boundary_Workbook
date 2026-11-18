@@ -1,0 +1,31 @@
+# Glossary
+This glossary is being developed and will gradually include key Workbook terms as they appear.
+
+:::{glossary}
+
+Agent of change
+: An individual, group, or organisation capable of exercising agency to influence the direction of change. Agency refers to the ability of an actor to become relevant within a particular context and to shape actions.
+Source: [@simoens2022discursive], following [@leipold2017discursive]'s definition (p. 524). First introduced in: See {ref}`module-1-1-why-this-workbook`
+
+Service design
+:  A service is the way in which an organisation, through people, processes, technologies, and environments, enables someone to achieve a desired outcome, thereby creating value through that interaction.
+Source: To add. First introduced in: See {ref}`module-4-1-beyond-human-centred design`
+
+Sustainability or survivability
+: Sustainability focuses on long-term well-being, whereas survivability focuses on the capacity to endure and meet immediate needs under challenging conditions. Both are shaped by interconnected social, economic, and environmental factors.
+Source: [@halawa2024]. First introduced in: See {ref}`module-1-1-why-this-workbook`
+
+Sustainable transitions
+: Processes of changing unsustainable systems and practices
+  towards more sustainable ways of living.
+  See also {term}`Societal transformation`.
+
+Societal transformation
+: Fundamental changes in social structures, institutions,
+  behaviours, and relationships.
+  Related concept: {term}`Sustainable transitions`.
+
+:::
+
+::: {bibliography}
+:::

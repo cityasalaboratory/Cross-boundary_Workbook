@@ -21,7 +21,13 @@ project:
      children:
         - file: module2.1_content.md 
    - file: module3.0_outline.md
+     children:
+        - file: module3.1_content.md 
    - file: module4.0_outline.md
+     children:
+        - file: module4.1_content.md
+        - file: module4.1_goccia_milano.md  
+        - file: module4.1_from_biodiversity_to_local.md  
    - file: module5.0_outline.md
    - file: module6.0_outline.md
      children:

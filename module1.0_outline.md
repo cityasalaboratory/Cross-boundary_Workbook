@@ -19,11 +19,11 @@ Write caption
 </div>
 
 ## Module summary
-Initiated as a joint effort by TU Berlin, Politecnico di Milano and TU Delft within the ENHANCE Alliance of European Universities of Technology, the City as Laboratory Workbook is an open-access resource designed to support the reflective practice of critically examining one’s experiences, intended actions and assumptions to strengthen transdisciplinary learning as a way to develop knowledge from, for and with society. As such, the Workbook encourages citizens including students, educators, practitioners, policymakers and community members to collectively address interconnected social, economic, and environmental challenges.
+This Cross-boundary Workbook of the City as A Laboratory project is the result of a joint effort by TU Berlin, Politecnico di Milano and TU Delft within the ENHANCE Alliance of European Universities of Technology. It is an open-access resource that supports reflective practice by encouraging learners to critically examine their experiences, intended actions, and assumptions, strengthening transdisciplinary learning and the co-creation of knowledge from, for, and with society. As such, the Workbook encourages citizens including students, educators, practitioners, policymakers and community members to collectively address interconnected social, economic, and environmental challenges.
 
-This preliminary version presents the first two modules, while the complete edition will include six modules in total, accompanied by a glossary, dedicated worksheets for hands-on exercises compiled into a Learning Journey Portfolio and the reference list covering all modules. Each module combines theoretical insights with practical exercises, audiovisual explainers, and cases and tools from various sources. Cases present real-life examples of collaboration, while tools offer transferable learning activities aligned with specific objectives. Together, the modules create opportunities to connect, explore ideas, reflect and exchange learning experiences.
+The Workbook consists of six learning modules, each with its own reference list and tasks with customisable worksheets for hands-on practice. Learners can compile their work into a Learning Journey Portfolio and use a glossary of terms shared across all modules as a reference. Each module combines theoretical insights with audiovisual explainers, case studies, and tasks developed by contributing authors working across disciplinary and societal boundaries. Cases present real-life examples of collaboration, while tasks offer transferable learning activities that learners can apply in their own contexts. Together, the modules create opportunities to connect, explore ideas, reflect, and exchange experiences through learning and transformation events that learners can join or organise themselves.
 
-By integrating diverse perspectives and knowledge types, the Workbook strengthens learners’ ability to navigate complexity and supports the co-creation of sustainable practices across disciplines, sectors and cultural contexts. 
+By integrating diverse perspectives and forms of knowledge, this Workbook strengthens learners' ability to navigate complexity and supports the co-creation of sustainable practices across disciplines, sectors, and cultural contexts. 
 
 ## Learning Objectives
 
@@ -31,5 +31,4 @@ By integrating diverse perspectives and knowledge types, the Workbook strengthen
 
 - <span style="color:#0089A6; font-weight:700;">Define</span> key concepts such as change, transition, transformation and sustainability mean to you.
 
-- <span style="color:#0089A6; font-weight:700;">Develop</span>  the willingness to apply the Workbook content to your personal development by starting to compile a Learning Journey Portfolio.
-
+- <span style="color:#0089A6; font-weight:700;">Develop</span> the willingness to apply the Workbook content to your personal development by starting to compile a Learning Journey Portfolio.

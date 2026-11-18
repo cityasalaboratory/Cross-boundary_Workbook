@@ -1,4 +1,8 @@
 # 2.1 Cities as drivers and laboratories
+<div class="section-subtitle">
+To write subtitle.
+</div>
+
 ```{figure} images/module2.1_gap.png
 :width: 600px
 :align: center
@@ -16,46 +20,61 @@ However, consumer lifestyles and entertainment industries have often transformed
 
 ## Task 2.1 A challenge worth exploring: Your story behind it.
 <div class="author-block">
-By Francesco Vergani, Valentina Faccoetti & Juliette-Cortes-Arevalo
+By Juliette-Cortes-Arevalo, Francesco Vergani & Valentina Faccoetti 
 </div>
 
-<div class="task-framing">
-  Choose a real-life challenge among the clusters listed below to uncover how your personal experience shapes your connection with it.
+<div class="task-subtitle">
+Choose a real-life challenge from the clusters listed below to explore how your personal experiences shape your connection to the challenge.
 </div>
 
 <div class="time-indication">
   <ul>
-  <li>15 minutes own story</li>
-  <li>15 minutes to interview other actors</li>
+  <li>15 minutes own story.</li>
+  <li>15 minutes to interview other actors.</li>
   </ul>
 </div>
 
 <div class="learning-objective">
-Use the questions below to explore your connection to the challenge and whom would you like to support in addressing it. If you wish, use the same questions to ask people who are interested in or affected by the challenge about their experience to enrich your perspective with their insights.
+Analyse how your experiences shape your perspective on a real-world challenge and its stakeholders.
 </div>
 
 <div class="requirements">
 <ul>
-    <li>A space to take notes and reflect</li>
+    <li>A space to take notes and reflect.</li>
 </ul>
 </div>
 
-<div class="methods-approaches">
-Reflective storytelling, Challenge-based inquiry, Reconstruct & Intervene.
+<div class="keywords-box">
+  <div class="keywords-title">Keywords</div>
+
+  <div class="keyword-item">
+    <span class="keyword-label">Method category:</span>
+  <span class="tag">Reconstruct & Intervene</span>
+  <span class="tag">Reflective storytelling</span>
+  <span class="tag">Challenge-based learning</span>
+  </div>
+
+  <div class="keyword-item">
+    <span class="keyword-label">Inner Development Goal:</span>
+    <span class="tag">Being - Self-awareness</span>
+  </div>
+
+  <div class="keyword-item">
+    <span class="keyword-label">Change step:</span>
+    <span class="tag">1. Connect and defining the problem</span>  
+  </div>
 </div>
 
 <div class="limitations">
-This exercise builds on your current understanding of the challenge. Other perspectives may not yet be visible and can be explored further by using the same questions to interview other actors.
+This task builds on your current understanding of the challenge. Other perspectives may not yet be visible unless they are explored further, for example by using the same questions to engage with or interview other actors.
 </div>
 
 <div class="step-by-step">
-<ul><li>Use the guiding questions of one challenge cluster to explore it in relation with your work or interests</li>
+<ul><li><strong>Choose a challenge:</strong> Use the guiding questions of one challenge cluster to explore it in relation with your work or interests.</li>
 
 </div>
 
 ::::{grid} 2
-:gutter: 3
-
 :::{card} Shared spaces and collective practices
 **Who creates and governs these in the future?**
 
@@ -115,15 +134,15 @@ Urban transformation is often driven by a limited number of government and econo
 
 <div class="step-by-step">
 <ul>
-<li>Start with your personal connection. Describe a moment where you noticed the challenge. Be specific (e.g. “on my daily
+<li><strong>Start with your personal connection.</strong> Describe a moment where you noticed the challenge. Be specific (e.g. “on my daily
 commute…” or “in my neighbourhood…”).</li>
-<li>Describe why it matters? Explain why this problem is important to you and what consequences does it have for whom.</li>
-<li>What does it bother you about this situation? Share what feels wrong, unfair, or unsustainable.</li>
-<li>What inspires you to act? Consider also what triggered your interest, positively.</li>
-<li>Who is mostly affected by this situation? Mention people, groups, or even the environment affected by this problem situation.</li>
-<li>What do you wish it could be different? Share your feelings and observations about the change you wish to see and why is not happening yet.</li>
-<li>What photos or visual helps to illustrate the situation? Acknowledge the source and copyrights as necessary.</li>
-<li>To conclude, formulate a problem statement following the below guidance:
+<li><strong>Describe why it matters?</strong> Explain why this problem is important to you and what consequences does it have for whom.</li>
+<li><strong>What does it bother you about this situation?</strong> Share what feels wrong, unfair, or unsustainable.</li>
+<li><strong>What inspires you to act?</strong> Consider also what triggered your interest, positively.</li>
+<li><strong>Who is mostly affected by this situation?</strong> Mention people, groups, or even the environment affected by this problem situation.</li>
+<li><strong>What do you wish it could be different?</strong> Share your feelings and observations about the change you wish to see and why is not happening yet.</li>
+<li><strong>What photos or visual helps to illustrate the situation?</strong> Acknowledge the source and copyrights as necessary.</li>
+<li><strong>To conclude, formulate a problem statement following the below guidance:</strong>
 "How can [choose an actor who has key resources or responsibilities to take action on the challenge right now and you wish to support]
 address [define the chosen actor’s main objective]
 without [define the main two unintended consequences this actor wants to avoid]</li>
@@ -139,7 +158,7 @@ without [define the main two unintended consequences this actor wants to avoid]<
     width="600">
 </a>
 
-## Download template
+## Download worksheet
 <a href="images/task2.1/workbook_task2.1.pdf" target="_blank">
   <img
     src="images/task2.1/task2.1_template.png"
