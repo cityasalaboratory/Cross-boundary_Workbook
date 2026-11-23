@@ -18,6 +18,8 @@ Research on pre-industrial understandings of dwelling suggests that the French t
 
 However, consumer lifestyles and entertainment industries have often transformed cities into spaces centred on commercialised public areas and high levels of consumption [@wilson2023reframing]. While this development has supported economic growth, it also contributes to excessive resource use, emissions, and waste, while affecting well-being through stress, overwork, inactivity, individualism, and social isolation [@kronenberg2024].
 
+<a id="task-2-1"></a>
+
 ## Task 2.1 A challenge worth exploring: Your story behind it.
 <div class="author-block">
 By Juliette-Cortes-Arevalo, Francesco Vergani & Valentina Faccoetti 

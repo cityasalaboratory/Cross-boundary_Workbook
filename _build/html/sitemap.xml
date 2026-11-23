@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3008/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3000/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3008</loc>
+    <loc>http://localhost:3000</loc>
   </url>
   <url>
-    <loc>http://localhost:3008/module1-0-outline</loc>
+    <loc>http://localhost:3000/module1-0-outline</loc>
   </url>
   <url>
-    <loc>http://localhost:3008/module1-1-content</loc>
+    <loc>http://localhost:3000/module1-1-content</loc>
   </url>
   <url>
-    <loc>http://localhost:3008/module2-0-outline</loc>
+    <loc>http://localhost:3000/module2-0-outline</loc>
   </url>
   <url>
-    <loc>http://localhost:3008/module2-1-content</loc>
+    <loc>http://localhost:3000/module2-1-content</loc>
   </url>
   <url>
-    <loc>http://localhost:3008/module3-0-outline</loc>
+    <loc>http://localhost:3000/module3-0-outline</loc>
   </url>
   <url>
-    <loc>http://localhost:3008/module3-1-content</loc>
+    <loc>http://localhost:3000/module3-1-content</loc>
   </url>
   <url>
-    <loc>http://localhost:3008/module4-0-outline</loc>
+    <loc>http://localhost:3000/module4-0-outline</loc>
   </url>
   <url>
-    <loc>http://localhost:3008/module4-1-content</loc>
+    <loc>http://localhost:3000/module4-1-content</loc>
   </url>
   <url>
-    <loc>http://localhost:3008/module4-1-goccia-milano</loc>
+    <loc>http://localhost:3000/module4-1-goccia-milano</loc>
   </url>
   <url>
-    <loc>http://localhost:3008/module4-1-from-biodiversity-to-local</loc>
+    <loc>http://localhost:3000/module4-1-from-biodiversity-to-local</loc>
   </url>
   <url>
-    <loc>http://localhost:3008/module5-0-outline</loc>
+    <loc>http://localhost:3000/module5-0-outline</loc>
   </url>
   <url>
-    <loc>http://localhost:3008/module6-0-outline</loc>
+    <loc>http://localhost:3000/module6-0-outline</loc>
   </url>
   <url>
-    <loc>http://localhost:3008/module6-1-berlin</loc>
+    <loc>http://localhost:3000/module6-1-berlin</loc>
   </url>
   <url>
-    <loc>http://localhost:3008/glossary</loc>
+    <loc>http://localhost:3000/glossary</loc>
   </url>
 </urlset>

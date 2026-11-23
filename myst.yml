@@ -33,6 +33,7 @@ project:
      children:
         - file: module6.1_Berlin.md        
    - file: glossary.md
+   - file: overview.md
   exports:
     - format: typst
       #template: lapreprint-typst

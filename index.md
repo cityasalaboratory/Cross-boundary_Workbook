@@ -49,22 +49,32 @@ A joint effort between TU Berlin, Politecnico di Milano and TU Delft, co-funded 
 :link: ./module6.0_outline.md
 ![Module 6 illustration](images/module6_tile.png)
 
-**6 Get inspired by each other experiences**
+**6. Get inspired by each other experiences**
 :::
 
 :::{card}
-
-![Glossary](images/glossary_tile.png)
+:link: ./glossary.md
+![Glossary illustration](images/glossary_tile.png)
 
 **Glossary of terms**
 :::
 
 :::{card}
 
-![Portfolio](images/module1.1_citizen.png)
+![Portfolio ilustration](images/module1.1_citizen.png)
 
-**5. Learning Journey Portfolio**
+**Learning Journey Portfolio**
 
 :::
 
+:::{card}
+:link: ./overview.md
+![Overview](images/overview_tile.png)
+
+**Overview**
+
+:::
+
+
 ::::
+
